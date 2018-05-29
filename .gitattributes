@@ -1,1 +1,6 @@
 TOI_URLS.txt filter=lfs diff=lfs merge=lfs -text
+TOI_CONTENT.txt filter=lfs diff=lfs merge=lfs -text
+TOI_CONTENT_BADWORDS_REMOVED.txt filter=lfs diff=lfs merge=lfs -text
+batch2.txt filter=lfs diff=lfs merge=lfs -text
+final filter=lfs diff=lfs merge=lfs -text
+log_collecturls_toi.txt filter=lfs diff=lfs merge=lfs -text
